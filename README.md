@@ -35,7 +35,7 @@ oriented, determined, responsible, and friendly.</p>
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/emiliopino/" target="_blank" rel="noopener noreferrer"><img src="https://media.licdn.com/dms/image/D4D03AQEmYG0iGM9rBw/profile-displayphoto-shrink_800_800/0/1683987734705?e=1690416000&v=beta&t=r-40j5-VZw02ScBTGhUZHlvKDRFSCzzspJiYJHvmmkU" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/emiliopino/" target="_blank" rel="noopener noreferrer"><img src="https://techprofile.blob.core.windows.net/images/X0tfBOu-U0e97ONwT4M79A.png?8DB589" width="250" /></a>
 
 
 ⭐️ From [pinoen](https://github.com/pinoen)
