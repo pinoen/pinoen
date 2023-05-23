@@ -14,13 +14,14 @@ oriented, determined, responsible, and friendly.</p>
 - 🔭 &nbsp; I’m currently completing a full stack program by the University of Helsinky and a front-end certification by Meta.
 
 <h3>🛠 Tech Stack</h3>
+
 - 💻 &nbsp; NODEJS | Java   
 - 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap | React
 - 🛢 &nbsp; MySQL | MONGODB 
 - 🔧 &nbsp; Visual Studio Code | INTELLIJDEA | Postman | Workbench | Git | Bash | GitHub | GitLab
 - 🔧 &nbsp; Jest | JUnit | Selenium
 - 🖥 &nbsp; Figma | Trello | Netfily
-- 🔧 Agile Metodologies | Lean | Kanban | Scrum | Design Thinking | Teamwork & Collaboration
+- 🔧 &nbsp; Agile Metodologies | Lean | Kanban | Scrum | Design Thinking | Teamwork & Collaboration
 
 <br>
 
@@ -34,7 +35,7 @@ oriented, determined, responsible, and friendly.</p>
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/emiliopino/" target="_blank" rel="noopener noreferrer"><img src="https://techprofile.blob.core.windows.net/images/X0tfBOu-U0e97ONwT4M79A.png?8DB589" width="250" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/emiliopino/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="150" /></a>
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
   
 ⭐️ From [pinoen](https://github.com/pinoen)
