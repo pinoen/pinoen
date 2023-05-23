@@ -1,5 +1,4 @@
 <h2> Hey there! I'm Emilio. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 <h4>Front-end developer</h4>
@@ -36,7 +35,7 @@ oriented, determined, responsible, and friendly.</p>
 
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/emiliopino/" target="_blank" rel="noopener noreferrer"><img src="https://techprofile.blob.core.windows.net/images/X0tfBOu-U0e97ONwT4M79A.png?8DB589" width="250" /></a>
-
-
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
+  
 ⭐️ From [pinoen](https://github.com/pinoen)
 
