@@ -11,6 +11,8 @@ where I can apply all that I have learned so far and continue to grow
 together. I consider myself a long-term student, patient, goal-
 oriented, determined, responsible, and friendly.</p>  
 
+- Visit my porfolio at [Emilio Pino Portfolio - Gym app](https://pinoen.github.io/cv-emilio-pino/)
+
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; NODEJS | Java   
