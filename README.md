@@ -14,8 +14,8 @@ oriented, determined, responsible, and friendly.</p>
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; NODEJS | Java   
-- 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap | React
-- 🛢 &nbsp; MySQL | MONGODB 
+- 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap | Tailwind | Styled Component | React | Typescript
+- 🛢 &nbsp; MySQL | MONGODB | Supabase
 - 🔧 &nbsp; Visual Studio Code | INTELLIJDEA | Postman | Workbench | Git | Bash | GitHub | GitLab
 - 🔧 &nbsp; Jest | JUnit | Selenium
 - 🖥 &nbsp; Figma | Trello | Netfily | Vercel
