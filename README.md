@@ -11,8 +11,6 @@ where I can apply all that I have learned so far and continue to grow
 together. I consider myself a long-term student, patient, goal-
 oriented, determined, responsible, and friendly.</p>  
 
-- 🔭 &nbsp; I’m currently completing a full stack program by the University of Helsinky and a front-end certification by Meta.
-
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; NODEJS | Java   
@@ -20,7 +18,7 @@ oriented, determined, responsible, and friendly.</p>
 - 🛢 &nbsp; MySQL | MONGODB 
 - 🔧 &nbsp; Visual Studio Code | INTELLIJDEA | Postman | Workbench | Git | Bash | GitHub | GitLab
 - 🔧 &nbsp; Jest | JUnit | Selenium
-- 🖥 &nbsp; Figma | Trello | Netfily
+- 🖥 &nbsp; Figma | Trello | Netfily | Vercel
 - 🔧 &nbsp; Agile Metodologies | Lean | Kanban | Scrum | Design Thinking | Teamwork & Collaboration
 
 <br>
