@@ -5,23 +5,24 @@
 <p>I worked for 15 years in the construction, gas, and oil industries as a
 safety and environmental supervisor with the primary goal of
 maintaining a healthy workplace.<p>
-<p>In 2021, I decided to start a career in technology. Currently, while
-continuing my studies, I am looking to join forces with a company
-where I can apply all that I have learned so far and continue to grow
-together. I consider myself a long-term student, patient, goal-
-oriented, determined, responsible, and friendly.</p>  
+<p>In 2021, I decided to start a career
+in technology. Currently, while continuing my studies, I am looking
+to join forces with a company where I can apply all that I have
+learned so far and continue to grow together. I consider myself a
+long-term student, patient, goal- oriented, determined, responsible,
+and friendly.</p>  
 
 - Visit my porfolio at [Emilio Pino Portfolio](https://pinoen.github.io/cv-emilio-pino/)
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; NODEJS | Java   
 - 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap | Tailwind | Styled Component | React | Typescript
-- 🛢 &nbsp; MySQL | MONGODB | Supabase
-- 🔧 &nbsp; Visual Studio Code | INTELLIJDEA | Postman | Workbench | Git | Bash | GitHub | GitLab
-- 🔧 &nbsp; Jest | JUnit | Selenium
+- 💻 &nbsp; NODEJS | Express  
+- 🛢 &nbsp; MONGODB | Supabase
+- 🔧 &nbsp; Visual Studio Code | Postman | Git | GitHub | GitLab
+- 🔧 &nbsp; Jest | Vitest | Selenium
 - 🖥 &nbsp; Figma | Trello | Netfily | Vercel
-- 🔧 &nbsp; Agile Metodologies | Lean | Kanban | Scrum | Design Thinking | Teamwork & Collaboration
+- 🔧 &nbsp; Agile Metodologies | Design Thinking | Teamwork & Collaboration
 
 <br>
 
