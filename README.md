@@ -37,7 +37,7 @@ and friendly.</p>
 
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/emiliopino/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="150" /></a>
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
+  <a href="https://pinoen.github.io/cv-emilio-pino/#projects" target="_blank" rel="noopener noreferrer"><img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/></a>
   
 ⭐️ From [pinoen](https://github.com/pinoen)
 
