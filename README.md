@@ -2,27 +2,19 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 <h4>Front-end developer</h4>
-<p>I worked for 15 years in the construction, gas, and oil industries as a
-safety and environmental supervisor with the primary goal of
-maintaining a healthy workplace.<p>
-<p>In 2021, I decided to start a career
-in technology. Currently, while continuing my studies, I am looking
-to join forces with a company where I can apply all that I have
-learned so far and continue to grow together. I consider myself a
-long-term student, patient, goal- oriented, determined, responsible,
-and friendly.</p>  
+<p>I worked for 15 years in the energy sector as a safety and environmental leader. In 2021, driven by my interest in technology, I decided to pursue a career in IT.<p>
+<p>In 2021, I decided to start a career in technology. Currently, as I continue to learn, I am looking to join forces with a company where I can put into practice what I have learned so far and continue to grow together. I consider myself to be a patient, results-oriented, determined, responsible, and friendly person..</p>  
 
 - Visit my porfolio at [Emilio Pino Portfolio](https://pinoen.github.io/cv-emilio-pino/)
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap | Tailwind | Styled Component | React | Typescript
-- 💻 &nbsp; NODEJS | Express  
-- 🛢 &nbsp; MONGODB | Supabase
-- 🔧 &nbsp; Visual Studio Code | Postman | Git | GitHub | GitLab
-- 🔧 &nbsp; Jest | Vitest | Selenium
-- 🖥 &nbsp; Figma | Trello | Netfily | Vercel
-- 🔧 &nbsp; Agile Metodologies | Design Thinking | Teamwork & Collaboration
+- 💻 &nbsp;  HTML | CSS | JavaScript | Typescript | Bootstrap | Tailwind | Styled Component | React | NextJS
+- 🌐 &nbsp; MONGODB | NODEJS | Express
+- 🦺️ &nbsp; Jest | Vitest | Selenium
+- 🔧 &nbsp;  Git | GitHub | GitLab
+- 👨‍💻️ &nbsp; Visual Studio Code | Postman | Figma | Trello | Jira | Netfily | Vercel
+- 💪️ &nbsp; Agile Metodologies | Design Thinking | Teamwork & Collaboration
 
 <br>
 
