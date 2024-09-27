@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 <h4>Front-end developer</h4>
 <p>I worked for 15 years in the energy sector as a safety and environmental leader. In 2021, driven by my interest in technology, I decided to pursue a career in IT.<p>
-<p>In 2021, I decided to start a career in technology. Currently, as I continue to learn, I am looking to join forces with a company where I can put into practice what I have learned so far and continue to grow together. I consider myself to be a patient, results-oriented, determined, responsible, and friendly person..</p>  
+<p>In 2021, I decided to start a career in technology. Currently, as I continue to learn, I am looking to join forces with a company where I can put into practice what I have learned so far and continue to grow together. I consider myself to be a patient, results-oriented, determined, responsible, and friendly person.</p>  
 
 - Visit my porfolio at [Emilio Pino Portfolio](https://pinoen.github.io/cv-emilio-pino/)
 
